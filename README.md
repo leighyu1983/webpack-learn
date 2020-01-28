@@ -1,4 +1,4 @@
-# react-learn
+# webpack-learn
 cnpm init  
 cnpm i webpack webpack-cli -D  
 cnpm i html-webpack-plugin  
